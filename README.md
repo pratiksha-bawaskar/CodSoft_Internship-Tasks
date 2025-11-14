@@ -33,10 +33,6 @@ git clone https://github.com/pratiksha-bawaskar/CodSoft_Internship-Tasks.git
 2. Open any `.java` file in Eclipse or your preferred IDE.
 3. Run the file as a Java application.
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
 ## 🙋‍♀️ About Me
 
 I’m **Pratiksha Bawaskar**, a backend-focused Java developer passionate about building clean and efficient applications.  
